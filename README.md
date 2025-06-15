@@ -6,7 +6,7 @@
 <h1 align="center">Hola, soy Tomás Murillo 👋</h1>
 
 <p align="center">
-  🎓 Estudiante de Ingeniería de Software (4º semestre)<br>
+  🎓 Estudiante de Ingeniería de Software (6º semestre)<br>
   💻 Apasionado por la inteligencia artificial y el desarrollo backend<br>
   🚀 Aprendiendo: Node.js, React, RDF, OWL, redes neuronales y más
 </p>
