@@ -1,6 +1,6 @@
 <!-- Banner o GIF de bienvenida -->
 <p align="center">
-  <iframe src="https://giphy.com/embed/hKdDwtTZ6gD0AS7etL" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/blife-protocol-bliffy-            hKdDwtTZ6gD0AS7etL">via GIPHY</a></p>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 </p>
 
 <h1 align="center">Hola, soy Tomás Murillo 👋</h1>
