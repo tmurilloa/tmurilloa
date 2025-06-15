@@ -1,6 +1,6 @@
 <!-- Banner o GIF de bienvenida -->
 <p align="center">
-  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Znk1Y2Y1MjJnazNtb3YwYmx2cXNnZ2s5bDY5cDcwcGNrOXVhOXVjayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hKdDwtTZ6gD0AS7etL/giphy.gif)" width="300"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 </p>
 
 <h1 align="center">Hola, soy Tomás Murillo 👋</h1>
