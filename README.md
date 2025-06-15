@@ -24,7 +24,6 @@
   <!-- Backend -->
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 
   <!-- Datos / IA -->
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -48,16 +47,16 @@ _🧱 Pronto iré publicando aquí mis proyectos personales y académicos..._
 ### 📈 Estadísticas
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TomasMurillo&show_icons=true&theme=radical" width="47%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomasMurillo&layout=compact&theme=radical" width="47%">
+  <img src="https://github-readme-stats.vercel.app/api?username=tmurilloa&show_icons=true&theme=radical" width="47%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmurilloa&layout=compact&theme=radical" width="47%">
 </p>
 
 ---
 
 ### 📫 Contacto
 
-- 💼 [LinkedIn (agrega tu link si tienes)](https://www.linkedin.com/)
-- ✉️ tomas@example.com _(actualiza tu correo real)_
+- 💼 www.linkedin.com/in/tomas-murillo-aristizabal-9a6a46303
+- ✉️ tmarisitizabal@gmail.com
 
 ---
 
